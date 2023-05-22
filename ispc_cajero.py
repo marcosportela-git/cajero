@@ -1,4 +1,4 @@
-print("Bienvenido a Cajero ISPC.")
+print("Bienvenido a Cajero.")
 
 # Entrada. Datos del usuario.
 for i in range(3):
